@@ -30,6 +30,7 @@ description: >- # this means to ignore newlines"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 disqus:
   shortname: jtriminds-blog
