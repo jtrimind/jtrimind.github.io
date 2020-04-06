@@ -13,7 +13,7 @@ title:  "Jekyll에서 html 언어 설정하기"
 
 minima theme의 경우, `_layouts/default.html`을 보면 아래와 같은 코드가 있다.
 ```html
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% raw %}<html lang="{{ page.lang | default: site.lang | default: "en" }}">{% endraw %}
 ```
 page에 지정된 lang, site에 지정된 lang, 둘 다 없으면 "en"으로 설정한다는 의미이다.  
 `site` 변수는 `_config.yml`에서 설정할 수 있다.  
