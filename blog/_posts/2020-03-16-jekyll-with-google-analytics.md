@@ -3,9 +3,6 @@ layout: post
 title:  "Jekyll에 Google Analytics 적용하기"
 ---
 
-## 참고 사이트
-[[깃블로그] 깃블로그(jekyll)에 구글 애널리틱스(Google Analytics) 적용법!](https://mingnol2.tistory.com/70)
-
 ## Google Analytics 적용하기
 [Google Analytics](https://analytics.google.com/)를 이용하여 블로그를 방문하는 사람들을 분석할 수 있다.  
 Jekyll을 사용하고 있다면 간단히 적용 가능하다.  
@@ -18,3 +15,6 @@ Jekyll을 사용하고 있다면 간단히 적용 가능하다.
 # _config.yml
 google_analytics: 'UA-*mynumber*'
 ```
+
+## 참고 사이트
+[[깃블로그] 깃블로그(jekyll)에 구글 애널리틱스(Google Analytics) 적용법!](https://mingnol2.tistory.com/70)
