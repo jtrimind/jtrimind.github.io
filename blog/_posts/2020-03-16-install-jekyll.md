@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Jekyll 설치하기"
+title:  "Ubuntu에서 Jekyll 설치하기"
 ---
 
-## 참고사이트
-- [Jekyll 빠른 시작](https://jekyllrb-ko.github.io/docs/)
-- [Jekyll Quickstart](https://jekyllrb.com/docs/)
-- [ubuntu에서 jekyll 설치](https://jekyllrb.com/docs/installation/ubuntu/)
+Ubuntu에서 Jekyll을 설치하고, 로컬서버에서 접속해본다.
 
 ## 우분투에서 Jekyll 설치
 
@@ -37,3 +34,8 @@ bundle exec jekyll serve
 
 ## 접속
 http://localhost:4000 에 접속한다.
+
+## 참고사이트
+- [Jekyll 빠른 시작](https://jekyllrb-ko.github.io/docs/)
+- [Jekyll Quickstart](https://jekyllrb.com/docs/)
+- [ubuntu에서 jekyll 설치](https://jekyllrb.com/docs/installation/ubuntu/)
