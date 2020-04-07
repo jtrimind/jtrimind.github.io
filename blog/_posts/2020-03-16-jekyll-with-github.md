@@ -19,3 +19,6 @@ git add .
 git commit -m "Apply jekyll"
 git push
 ```
+
+## Github Pages에서 제공하는 Jekyll 테마와 플러그인
+Github Pages에서 제공하는 Jekyll 테마와 플러그인을 확인하려면 [여기]({% post_url blog/2020-04-07-github-pages-jekyll-dependency %})를 참고한다.
