@@ -110,3 +110,7 @@ gst_object_unref (pipeline);
 
 ## 참고사이트
 [Basic tutorial 1: Hello world!](https://gstreamer.freedesktop.org/documentation/tutorials/basic/hello-world.html?gi-language=c)
+
+## LICENSE
+
+{% include_relative LICENSE %}

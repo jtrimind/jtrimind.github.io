@@ -301,3 +301,7 @@ pipeline으로부터 오는 메시지만 받도록 필터링하였다.
 
 ## 참고사이트
 [Basic tutorial 3: Dynamic pipelines](https://gstreamer.freedesktop.org/documentation/tutorials/basic/dynamic-pipelines.html?gi-language=c)
+
+## LICENSE
+
+{% include_relative LICENSE %}

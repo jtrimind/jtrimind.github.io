@@ -185,3 +185,7 @@ if (msg != NULL) {
 
 ## 참고사이트
 [Basic tutorial 2: GStreamer concepts](https://gstreamer.freedesktop.org/documentation/tutorials/basic/concepts.html?gi-language=c)
+
+## LICENSE
+
+{% include_relative LICENSE %}

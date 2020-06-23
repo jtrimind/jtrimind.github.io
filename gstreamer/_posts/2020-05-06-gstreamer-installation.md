@@ -12,3 +12,7 @@ apt-get install libgstreamer1.0-0 gstreamer1.0-plugins-base gstreamer1.0-plugins
 
 ## 참고 사이트
 [Gstreamer Documentation](https://gstreamer.freedesktop.org/documentation/installing/on-linux.html)
+
+## LICENSE
+
+{% include_relative LICENSE %}
