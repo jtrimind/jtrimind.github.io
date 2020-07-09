@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AttributeError: 'NoneType' object has no attribute 'image_data_format' 해결법"
+title:  "[해결법] AttributeError: 'NoneType' object has no attribute 'image_data_format'"
 ---
 
 아래와 같이 keras application을 import했을 경우 `AttributeError: 'NoneType' object has no attribute 'image_data_format'`와 같은 에러가 발생할 수 있다.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AttributeError: module 'tensorflow' has no attribute 'random_normal' 해결법"
+title:  "[해결법] AttributeError: module 'tensorflow' has no attribute 'random_normal'"
 ---
 
 `AttributeError: module 'tensorflow' has no attribute 'random_normal'` 에러는 tensorflow 2에서 random_normal()을 실행 시 나타난다.  

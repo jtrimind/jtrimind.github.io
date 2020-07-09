@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[NVIDIA driver 설치] ERROR: The Nouveau kernel driver is currently in use by your system. 해결법"
+title:  "[해결법] ERROR: The Nouveau kernel driver is currently in use by your system."
 ---
 
 NVIDA driver를 설치하다가 위와 같은 에러 로그와 함께 설치에 실패할 수도 있다.  

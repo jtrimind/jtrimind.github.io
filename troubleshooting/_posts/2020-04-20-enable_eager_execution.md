@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AttributeError: module 'tensorflow' has no attribute 'enable_eager_execution' 해결법"
+title:  "[해결법] AttributeError: module 'tensorflow' has no attribute 'enable_eager_execution'"
 ---
 
 `AttributeError: module 'tensorflow' has no attribute 'enable_eager_execution'` 에러는 tensorflow 2.0이상에서 enable_eager_execution()을 실행 시 나타난다.

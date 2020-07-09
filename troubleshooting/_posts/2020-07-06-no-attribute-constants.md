@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AttributeError: module 'tensorflow._api.v2.lite' has no attribute 'constants' 해결법"
+title:  "[해결법] AttributeError: module 'tensorflow._api.v2.lite' has no attribute 'constants'"
 ---
 
 tensorflow 2에서 `tf.lite.constants.QUANTIZED_UINT8`와 같은 deprecated된 값을 사용시 발생한다.

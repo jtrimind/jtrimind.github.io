@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ModuleNotFoundError: No module named 'keras' 해결법"
+title:  "[해결법] ModuleNotFoundError: No module named 'keras'"
 ---
 
 [Keras Documentation](https://keras.io/ko/applications/)을 보면 ResNet50와 같은 모델을 사용한 예시 코드가 있다.

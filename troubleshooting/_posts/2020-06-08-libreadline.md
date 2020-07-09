@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "error while loading shared libraries: libreadline.so.6 해결법"
+title:  "[해결법] error while loading shared libraries: libreadline.so.6"
 ---
 
 `error while loading shared libraries: libreadline.so.6: cannot open shared object file: No such file or directory`이라는 에러가 발생하는 경우가 있다.

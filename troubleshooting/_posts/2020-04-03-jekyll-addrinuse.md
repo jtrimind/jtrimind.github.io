@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "in `bind': Address already in use - bind(2) for 127.0.0.1:4000 (Errno::EADDRINUSE) 해결"
+title:  "[해결법] in `bind': Address already in use - bind(2) for 127.0.0.1:4000 (Errno::EADDRINUSE)"
 ---
 
 ## EADDRINUSE
