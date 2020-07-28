@@ -189,7 +189,7 @@ static void handle_message (CustomData *data, GstMessage *msg);
 
 모든 정보를 담고 있는 구조체를 정의하여 함수의 파라미터로 넘길 수 있게 한다.  
 메시지 핸들링과 관련된 코드가 크기 때문에 `handle_message`로 옮겼다.  
-[Basic tutorial 1: Hello world!]{% post_url 2020-06-04-basic-tutorial-01 %} 에서 본 것과 같이 `playnbin`을 사용하여 파이프라인을 만들었다.  
+[Basic tutorial 1: Hello world!]{% post_url /gstreamer/2020-06-04-basic-tutorial-01 %} 에서 본 것과 같이 `playnbin`을 사용하여 파이프라인을 만들었다.  
 하지만 `playbin`은 그 자체로 파이프라인이고, 이 예시에서 파이프라인의 유일한 엘리먼트이므로, `playbin` 엘리먼트를 직접 사용하였다.  
 그 뒤 `playbin`의 URI를 설정하고 파이프라인을 PLAYING 상태로 설정하였다.  
 
