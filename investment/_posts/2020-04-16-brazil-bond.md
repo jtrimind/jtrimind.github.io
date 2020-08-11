@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "History of loss - 브라질 채권"
+title:  "[History of loss] 브라질 채권 손실"
 ---
 
 이 포스트는 브라질 채권을 구매한 후, -13%를 맞고 쓰는 반성문이다.
