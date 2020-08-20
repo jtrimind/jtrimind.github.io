@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gstreamer Basic tutorial 01: Hello world!"
+title:  "Gstreamer 기본 튜토리얼 01: Hello world!"
 ---
 
 ## 목표

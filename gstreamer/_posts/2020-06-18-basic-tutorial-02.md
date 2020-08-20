@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gstreamer Basic tutorial 02: GStreamer concepts"
+title:  "Gstreamer 기본 튜토리얼 02: GStreamer concepts"
 ---
 
 ## 목표

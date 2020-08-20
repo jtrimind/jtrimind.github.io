@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gstreamer Basic tutorial 4: Time management"
+title:  "Gstreamer 기본 튜토리얼 04: Time management"
 ---
 
 ## 목표

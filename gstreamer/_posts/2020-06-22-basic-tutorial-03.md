@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gstreamer Basic tutorial 03: Dynamic pipelines"
+title:  "Gstreamer 기본 튜토리얼 03: Dynamic pipelines"
 ---
 
 ## 목표
