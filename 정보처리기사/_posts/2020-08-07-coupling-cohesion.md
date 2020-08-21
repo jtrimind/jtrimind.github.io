@@ -5,11 +5,24 @@ title: "[정보처리기사 필기] 결합도(Coupling) & 응집도(Cohesion)"
 
 ## 결합도(Coupling)
 - 모듈 간의 결합도를 약하게 하면 모듈 독립성이 향상
-- 자료결합도(Data Coupling) < Stamp Coupling < Control Coupling < Extern Coupling < Common Coupling < 내용결합도(Content Coupling)
+- 결합도의 종료(약->강)
+  1. 자료(Data)
+  2. 스탬프(Stamp)
+  3. 제어(Control)
+  4. 외부(Extern)
+  5. 공통(Common)
+  6. 내용(Content)
 
 ## 응집도(Cohesion)
 - 좋은 모듈은 응집도가 높음
-- Coincidental Cohesion - 논리적 응집도(Logical Cohesion) - 시간적 응집도(Temporal Cohesion) - 절차적 응집도(Procedural Cohesion) - Communication Cohesion - 순서적 응집도(Sequential Cohesion) - Functional Cohesion
+- 응집도의 종류(약->강)
+  1. 우연적(Coincidental)
+  2. 논리적(Logical)
+  3. 시간적(Temporal)
+  4. 절차적(Procedural)
+  5. 교환적(Communication)
+  6. 순서적(Sequential)
+  7. 기능적(Functional)
 
 ```bash
 # 20년 2회
@@ -18,6 +31,13 @@ title: "[정보처리기사 필기] 결합도(Coupling) & 응집도(Cohesion)"
 ② 결합도가 높으면 시스템 구현 및 유지보수 작업이 쉽다.
 ③ 모듈 간의 결합도를 약하게 하면 모듈 독립성이 향상된다.
 ④ 자료결합도는 내용결합도보다 결합도가 높다
+```
+
+```bash
+# 20년 2회
+77. 응집도가 가장 낮은 것은?
+① 기능적 응집도 ② 시간적 응집도
+③ 절차적 응집도 ④ 우연적 응집도
 ```
 
 ```bash
