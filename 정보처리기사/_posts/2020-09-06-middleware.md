@@ -3,12 +3,22 @@ layout: post
 title: "[정보처리기사] 미들웨어(Middleware)"
 ---
 
-## 미들웨어(Middleware)
+## 미들웨어
+클라이언트와 서버 간의 통신을 담당하는 시스템 소프트웨어
+
 - WAS(Web Application Server)
 - RPC(Remote Procedure Call)
 - ORB(Object Request Broker)
 - TP monitor: 트랜잭션이 올바르게 처리되고 있는지 데이터를 감시하고 제어
 
+## 정보처리기사 기출문제
+
+```bash
+# 20년 3회 필기
+18. 클라이언트와 서버 간의 통신을 담당하는 시스템 소프트웨어를 무엇이라고 하는가?
+① 웨어러블 ② 하이웨어
+③ 미들웨어 ④ 응용 소프트웨어
+```
 
 ```bash
 # 20년 3회 필기
