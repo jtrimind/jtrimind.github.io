@@ -26,6 +26,11 @@ title: "[정보처리기사] GoF 디자인 패턴(Gang of Four Design Pattern)"
 - 구조 패턴
 - 행위 패턴
 
+## 디자인 패턴을 구성하는 요소
+- 문제 및 배경
+- 사례
+- 샘플코드
+
 ## 디자인 패턴 사용의 장٠단점
 - 소프트웨어 구조 파악이 용이하다.
 - 객체지향 설계 및 구현의 생산성을 높이는데 적합하다.
@@ -55,6 +60,13 @@ title: "[정보처리기사] GoF 디자인 패턴(Gang of Four Design Pattern)"
 - Virtual-Constructor 패턴이라고도 함
 ① Visitor 패턴        ② Observer 패턴
 ③ Factory Method 패턴 ④ Bridge 패턴
+```
+
+```bash
+# 20년 3회
+15. 객체지향 소프트웨어 설계 시 디자인 패턴을 구성하는 요소로서 가장 거리가 먼 것은?
+① 개발자이름 ② 문제 및 배경
+③ 사례 ④ 샘플코드
 ```
 
 ```bash
