@@ -15,7 +15,6 @@ tensorflow 2를 쓴다면 random.uniform을 사용하자.
 tf.random.uniform(shape)
 ```
 
-
 ### 방법 2. v1 API 사용
 tensorflow 1 문법을 사용하기 위해서는 compat.v1을 추가하여 사용하면 된다.  
 
