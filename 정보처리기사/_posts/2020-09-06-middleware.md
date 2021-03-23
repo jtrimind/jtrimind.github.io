@@ -11,6 +11,11 @@ title: "[정보처리기사] 미들웨어(Middleware)"
 - ORB(Object Request Broker)
 - TP monitor: 트랜잭션이 올바르게 처리되고 있는지 데이터를 감시하고 제어
 
+## 중간 광고
+<iframe src="https://coupa.ng/bT5WRy" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+
+`파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`
+
 ## 정보처리기사 기출문제
 
 ```bash

@@ -9,6 +9,11 @@ title: "[정보처리기사] 랜드 공격(LAND Attack)"
 - 출발지 IP 주소와 도착지 IP 주소가 동일한 특징
 - 출발지와 도착지의 IP 주소가 동일한 패킷을 차단하여 방어
 
+## 중간 광고
+<iframe src="https://coupa.ng/bT5WRy" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+
+`파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`
+
 ```bash
 # 20년 3회 실기
 다음 공통으로 설명하는 네트워크 공격 유형에 해당하는 용어를 쓰시오.

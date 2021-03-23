@@ -21,6 +21,11 @@ title: "[정보처리기사 필기] 데이터베이스 설계"
   - 접근 경로 설계
   - 트랜잭션 작성
 
+## 중간 광고
+<iframe src="https://coupa.ng/bT5WRy" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+
+`파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`
+
 ```bash
 # 20년 2회
 49. 데이터베이스의 논리적 설계(logical design) 단계에서 수행하는 작업이 아닌 것은?

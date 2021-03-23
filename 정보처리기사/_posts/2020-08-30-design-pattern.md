@@ -37,6 +37,11 @@ title: "[정보처리기사] GoF 디자인 패턴(Gang of Four Design Pattern)"
 - 재사용을 위한 개발 시간이 단축된다.
 - 객체지향 언어와 함께 이용될 때 효율이 극대화된다.
 
+## 중간 광고
+<iframe src="https://coupa.ng/bT5WRy" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+
+`파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`
+
 ```bash
 # 20년 4회
 8. 디자인 패턴 사용의 장٠단점에 대한 설명으로 거리가 먼 것은?

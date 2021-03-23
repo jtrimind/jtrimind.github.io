@@ -38,6 +38,11 @@ title: "[정보처리기사] 결합도(Coupling), 응집도(Cohesion), 모듈의
   6. 순서적(Sequential)
   7. 기능적(Functional)
 
+## 중간 광고
+<iframe src="https://coupa.ng/bT5WRy" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+
+`파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`
+
 ```bash
 # 20년 4회 필기
 73. 결합도(Coupling)에 대한 설명으로 틀린 것은?
