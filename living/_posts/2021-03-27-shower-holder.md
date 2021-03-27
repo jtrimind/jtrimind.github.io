@@ -3,7 +3,7 @@ layout: post
 title:  "[해결법]샤워기 걸이 고장났을 때"
 ---
 
-<iframe src="https://coupa.ng/bUo27W" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+<iframe src="https://coupa.ng/bUo27W" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
 
 `파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`  
 
@@ -13,7 +13,7 @@ title:  "[해결법]샤워기 걸이 고장났을 때"
 유튜브에서 찾아보니 이런 샤워기 거치대는 분해를 하고 다시 조립을 해야 한다고 한다.  
 그런 시공을 할 자신이 없어 대안을 찾던 중 샤워기 행거만을 따로 끼울 수 있는 제품을 찾았다.  
 
-<iframe src="https://coupa.ng/bUo1Gq" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+<iframe src="https://coupa.ng/bUo1Gq" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
 
 `파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`  
 
