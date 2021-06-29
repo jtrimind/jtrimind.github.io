@@ -42,6 +42,16 @@ title: "[정보처리기사] GoF 디자인 패턴(Gang of Four Design Pattern)"
 
 `파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`
 
+## 정보처리기사 기출문제
+```bash
+# 21년 1회
+4. GoF(Gangs of Four) 디자인 패턴의 생성패턴에 속하지 않는 것은?
+① 추상 팩토리(Abstract Factory)
+② 빌더(Builder)
+③ 어댑터(Adapter)
+④ 싱글턴(Singleton)
+```
+
 ```bash
 # 20년 4회
 8. 디자인 패턴 사용의 장٠단점에 대한 설명으로 거리가 먼 것은?
