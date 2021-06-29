@@ -7,7 +7,7 @@ title: "[정보처리기사] 미들웨어(Middleware)"
 클라이언트와 서버 간의 통신을 담당하는 시스템 소프트웨어
 
 - WAS(Web Application Server)
-- RPC(Remote Procedure Call)
+- RPC(Remote Procedure Call): 응용프로그램의 프로시저를 사용하여 원격 프로시저를 로컬 프로시저처럼 호출
 - ORB(Object Request Broker)
 - TP monitor: 트랜잭션이 올바르게 처리되고 있는지 데이터를 감시하고 제어
 
@@ -17,6 +17,15 @@ title: "[정보처리기사] 미들웨어(Middleware)"
 `파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`
 
 ## 정보처리기사 기출문제
+
+```bash
+# 21년 1회 필기
+5. 응용프로그램의 프로시저를 사용하여 원격 프로시저를 로컬 프로시저처럼 호출하는 방식의 미들웨어는?
+① WAS(Web Application Server)
+② MOM(Message Oriented Middleware)
+③ RPC(Remote Procedure Call)
+④ ORB(Object Request Broker)
+```
 
 ```bash
 # 20년 4회 필기
