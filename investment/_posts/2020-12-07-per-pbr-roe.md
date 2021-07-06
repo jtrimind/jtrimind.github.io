@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "PER, PBR, ROE 한번에 이해하기"
+title:  "주식 3대 지표 PER PBR ROE 정의, 계산식, 예시"
+modified_date: 2021-07-06
 ---
 
-## PER, PBR, ROE 관계도
-
 ![PER, PBR, ROE 관계도](/assets/investment/2020-12-07-per-pbr-roe.png)
-
-이 그림을 보면서 하나하나 짚어보도록 하자
 
 ## 자기자본이익률(ROE, Return On Equity)
 
