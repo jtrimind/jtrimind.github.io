@@ -34,6 +34,12 @@ plugins:
   - jekyll-feed
   # - jekyll-sitemap
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/default-card.png
+
 markdown: kramdown
 
 # Exclude from processing.
