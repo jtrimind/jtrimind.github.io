@@ -1,0 +1,33 @@
+graph {
+    label="모듈의 응집도는 높아야 하고 결합도는 낮아야 한다"
+    node [shape=box]
+    subgraph cluster_cohesion {
+        node [colorscheme=rdylgn7, style=filled]
+        label="응집도(Cohesion)"
+        coincidental [label="우연적(Coincidental)", color=1]
+        logical [label="논리적(Logical)", color=2]
+        temporal [label="시간적(Temporal)", color=3]
+        procedural [label="절차적(Procedural)", color=4]
+        communication [label="교환적(Communication)", color=5]
+        sequential [label="순서적(Sequential)", color=6]
+        functional [label="기능적(Functional)", color=7]
+
+        functional -- sequential [taillabel="높음"]
+        sequential -- communication -- procedural -- temporal -- logical
+        logical -- coincidental [headlabel="낮음"]
+    }
+    subgraph cluster_coupling {
+        node [colorscheme=rdylgn6, style=filled]
+        label="결합도(Coupling)"
+        content [label="내용(Content)", color=1]
+        common [label="공통(Common)", color=2]
+        extern [label="외부(Extern)", color=3]
+        control [label="제어(Control)", color=4]
+        stamp [label="스탬프(Stamp)", color=5]
+        data [label="자료(Data)", color=6]
+
+        data -- stamp [taillabel="낮음"]
+        stamp -- control -- extern -- common
+        common -- content [headlabel="높음"]
+    }
+}

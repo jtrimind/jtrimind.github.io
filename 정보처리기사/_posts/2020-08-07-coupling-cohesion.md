@@ -1,7 +1,13 @@
 ---
 layout: post
 title: "[정보처리기사] 결합도(Coupling), 응집도(Cohesion), 모듈의 기능적 독립성"
+image: /assets/정보처리기사/2020-08-07-coupling-cohesion.png
+modified_date: 2021-07-13
 ---
+
+## 요약도
+
+![결합도 응집도](/assets/정보처리기사/2020-08-07-coupling-cohesion.png)
 
 ## 모듈의 기능적 독립성
 - 모듈의 기능적 독립성은 소프트웨어를 구성하는 각 모듈의 기능이 서로 독립됨을 의미
