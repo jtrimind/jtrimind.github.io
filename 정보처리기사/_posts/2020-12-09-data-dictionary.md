@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "[정보처리기사 필기] 자료 사전(DD, Data Dictionary)"
+image: /assets/정보처리기사/2020-12-09-data-dictionary.png
+modified_date: 2021-07-19
 ---
 
 ## 자료 사전
 [자료 흐름도]({% post_url 2020-08-07-dfd %})에 기술된 자료들에 대해 정의하는 것
 
 ## 자료 사전의 기호
+
+![자료 사전의 기호와 의미](/assets/정보처리기사/2020-12-09-data-dictionary.png)
+
 - =: 정의(is composed of)
 - +: 연결(and)
 - {}: 반복(iteration of)
