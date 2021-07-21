@@ -1,0 +1,9 @@
+digraph ni {
+    rankdir=LR
+    1 [label=<<table sides="tb" cellborder="0" margin="0"><tr><td>Data Store</td></tr></table>> shape=none]
+    2 [label="Process" shpae=circle]
+    3 [label="Terminator" shape=box]
+
+    1 -> 2 [label="Data Flow"]
+    2 -> 3 [label="Data Flow"]
+}

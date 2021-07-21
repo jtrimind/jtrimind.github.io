@@ -1,0 +1,10 @@
+digraph G
+{
+    rankdir="LR";
+    node[shape=circle,fixedsize=true,height=1];
+
+    "대출자" -> "플랫폼" [label = "1. 투자 신청"];
+    "플랫폼" -> "투자자" [label = "2. 투자 모집"];
+    "대출자" -> "투자자" [label = "3. 대출"];
+    "투자자" -> "대출자" [label = "4. 원금+이자"];
+}

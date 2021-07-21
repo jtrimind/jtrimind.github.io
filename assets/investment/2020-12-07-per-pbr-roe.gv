@@ -1,0 +1,8 @@
+graph G
+{
+   node[shape=circle,fixedsize=true,height=1];
+
+   "시가총액" -- "순자산" [headlabel = "PBR", labeldistance=3, labelangle=30];
+   "당기순이익" -- "시가총액" [label = "PER", labeldistance=2.5];
+   {rank=same; "순자산" -- "당기순이익" [label="ROE"];}
+}
