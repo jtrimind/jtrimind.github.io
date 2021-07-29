@@ -2,7 +2,7 @@
 
 title: "[정보처리기사] 결합도(Coupling), 응집도(Cohesion), 모듈의 기능적 독립성"
 image: /assets/images/information-processing/2020-08-07-coupling-cohesion.png
-modified_date: 2021-07-13
+modified_date: 2021-07-30
 ---
 
 ## 요약도
@@ -44,10 +44,11 @@ modified_date: 2021-07-13
   6. 순서적(Sequential)
   7. 기능적(Functional)
 
-## 중간 광고
-<iframe src="https://coupa.ng/bT5WRy" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+<iframe src="https://ads-partners.coupang.com/widgets.html?id=503471&template=carousel&trackingCode=AF0553706&subId=&width=680&height=140" width="680" height="140" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
 
-`파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음`
+`이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.`
+
+## 정보처리기사 기출문제
 
 ```bash
 # 20년 4회 필기
