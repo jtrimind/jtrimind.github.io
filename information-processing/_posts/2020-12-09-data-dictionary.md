@@ -1,20 +1,15 @@
 ---
 
 title: "[정보처리기사 필기] 자료 사전(DD, Data Dictionary)"
-modified_date: 2021-07-21
+image: /assets/images/information-processing/2020-12-09-data-dictionary.svg
+modified_date: 2021-07-30
 ---
 
 ## 자료 사전
-[자료 흐름도]({% post_url 2020-08-07-dfd %})에 기술된 자료들에 대해 정의하는 것
+[자료 흐름도]({% post_url 2020-08-07-dfd %})에 기술된 자료들에 대해 정의하는 것.
+자료사전에서 사용하는 기호들은 정의(`=`), 연결(`+`), 반복(`{}`), 선택(`[]`), 생략(`()`), 주석(`**`)이 있다.
 
-## 자료 사전의 기호
-
-- =: 정의(is composed of)
-- +: 연결(and)
-- {}: 반복(iteration of)
-- []: 선택(choose only one of)
-- (): 생략(optional)
-- **: 주석(comment)
+![자료 사전의 기호](/assets/images/information-processing/2020-12-09-data-dictionary.svg)
 
 ## 작성 시 고려사항
 - 갱신하기 쉬워야 한다.

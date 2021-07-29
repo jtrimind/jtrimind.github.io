@@ -1,0 +1,16 @@
+graph {
+    htmlTable [
+    shape=none
+    label=<
+    <table border="0" cellborder="1" cellspacing="0">
+        <tr><td>기호</td><td>의미</td></tr>
+        <tr><td>=</td><td align="left">정의(is composed of)</td></tr>
+        <tr><td>+</td><td align="left">연결(and)</td></tr>
+        <tr><td>{}</td><td align="left">반복(iteration of)</td></tr>
+        <tr><td>[]</td><td align="left" width="160">선택(choose only one of)</td></tr>
+        <tr><td>()</td><td align="left">생략(optional)</td></tr>
+        <tr><td>**</td><td align="left">주석(comment)</td></tr>
+    </table>
+    >];
+
+}
