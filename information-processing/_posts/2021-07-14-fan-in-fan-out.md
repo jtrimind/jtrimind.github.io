@@ -1,7 +1,7 @@
 ---
 
 title: "[정보처리기사] 팬 인(Fan-in), 팬 아웃(Fan-out)"
-image: /assets/information-processing/2021-07-14-fan-in-fan-out.png
+image: /assets/images/information-processing/2021-07-14-fan-in-fan-out.png
 ---
 
 ## 팬 인(Fan-in)
@@ -11,7 +11,7 @@ image: /assets/information-processing/2021-07-14-fan-in-fan-out.png
 모듈을 사용하는 하위 모듈의 개수
 
 ## 에시
-![팬 인 팬 아웃 예시](/assets/information-processing/2021-07-14-fan-in-fan-out.png)
+![팬 인 팬 아웃 예시](/assets/images/information-processing/2021-07-14-fan-in-fan-out.png)
 
 | 모듈 | 팬 인 | 팬 아웃 |
 |-|-|-|
@@ -38,5 +38,5 @@ image: /assets/information-processing/2021-07-14-fan-in-fan-out.png
 ③ fan-in：1, fan-out：2
 ④ fan-in：2, fan-out：1
 ```
-![팬 인 팬 아웃 예시](/assets/information-processing/2021-07-14-fan-in-fan-out.png)
+![팬 인 팬 아웃 예시](/assets/images/information-processing/2021-07-14-fan-in-fan-out.png)
 

@@ -1,11 +1,11 @@
 ---
 
 title:  "주식 3대 지표 PER PBR ROE 정의, 계산식, 예시"
-image: /assets/investment/2020-12-07-per-pbr-roe.png
+image: /assets/images/investment//2020-12-07-per-pbr-roe.png
 modified_date: 2021-07-06
 ---
 
-![PER, PBR, ROE 관계도](/assets/investment/2020-12-07-per-pbr-roe.png)
+![PER, PBR, ROE 관계도](/assets/images/investment//2020-12-07-per-pbr-roe.png)
 
 ## 자기자본이익률(ROE, Return On Equity)
 
