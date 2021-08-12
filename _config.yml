@@ -148,3 +148,4 @@ tag_archive:
 
 head_scripts:
   - "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"
+  - "https://www.gstatic.com/charts/loader.js"
