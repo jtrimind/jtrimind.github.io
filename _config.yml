@@ -93,9 +93,9 @@ plugins:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-160650724-1"
+    tracking_id          : "G-ZPRF0CWC37"
     anonymize_ip         : false # true, false (default)
 
 author:
